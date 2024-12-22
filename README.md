@@ -1,5 +1,5 @@
 # sukodu game project
-It's project that is sudoku game
+It's sudoku game project 
 
 it require pygame, time, random
 
