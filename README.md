@@ -1,4 +1,4 @@
-# sukodu
+# sukodu game project
 It's project that is sudoku game
 
 it require pygame, time, random
